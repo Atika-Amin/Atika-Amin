@@ -40,12 +40,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atika-Amin&show_icons=true&theme=rose_pine&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atika-Amin&layout=compact&theme=rose_pine&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atika-Amin&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atika-Amin&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Atika-Amin&theme=rose_pine&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Atika-Amin&theme=tokyonight&hide_border=true"/>
 
 </div>
 
