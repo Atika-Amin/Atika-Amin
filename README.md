@@ -40,7 +40,7 @@ const char* fun_fact   = "I've debugged more ECG noise than I'd like to admit �
 |---|---|
 | 🚀 | **NASA International Space Apps Challenge 2025**: Global Nominee |
 | 🥇 | **Blockchain & AI Olympiad Bangladesh 2026**: Honorable Mention, AI Category (Team CardiShirt) |
-| 🏥 | **Harvard HSIL Hackathon, 7th Edition**: Participant (Team Infinitum) |
+| 🏥 | **Harvard HSIL Hackathon, 7th Edition**: Finalist (Team Infinitum) |
 | 🥈 | **CSE Project Show Spring 2025**: 1st Runner Up, Advanced OOP Lab |
 | 🏅 | **CSE Project Show Fall 2025**: 4th Runner Up, Microprocessors & Microcontrollers Lab |
 | 🏅 | **CSE Project Show Summer 2025**: 7th Runner Up, System Analysis & Design Lab |
