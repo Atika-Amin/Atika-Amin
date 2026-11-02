@@ -69,7 +69,7 @@ const char* fun_fact   = "I've debugged more ECG noise than I'd like to admit ðŸ
 
 **Software Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,py,js,ts,nodejs,express,react,vite,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,nodejs,express,react,vite,fastapi,flask" />
 </p>
 
 **Data, AI & Tools**
